@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/wiFiFragment"
+        android:enabled="true"
+        android:icon="@drawable/ic_wifi"
+        android:title="@string/wifi"/>
+    <item
+        android:id="@+id/starFragment"
+        android:enabled="true"
+        android:icon="@drawable/ic_star"
+        android:title="@string/star"/>
+</menu>
